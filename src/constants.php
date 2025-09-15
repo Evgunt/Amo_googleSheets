@@ -8,6 +8,6 @@ define('REDIRECT_URL', 'https://tifani123listru.amocrm.ru/');
 define('SHEET_ID', '1OltzYvNlsXwWX_ReILT2Cw7zU01MYVCzkYgTgObJQ8A');
 define('SHEET_PATH', 'src/sheets_api.json');
 
-define('PIPELINE_ID', 10082586);
-define('STATUS_ID', 79934242);
-define('COMMENTS', 2081665);
+define('PIPELINE_ID', 10086678);
+define('STATUS_ID', 79960042);
+define('COMMENTS', 1853547);
