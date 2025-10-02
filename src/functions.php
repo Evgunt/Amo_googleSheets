@@ -85,7 +85,7 @@ function CreateLead($data) // Функция сборки массива дан�
             'status_id' => STATUS_ID
         ],
     ];
-    if (!empty($data['comment'])) {
+    if (!empty($data['comment']) && !empty(COMMENTS)) {
         array_push(
             $fields,
             [
