@@ -208,7 +208,7 @@ function ChangeContact($data) // Функция сборки массива да
     if (!empty($fields))
         $contact_data[0]['custom_fields_values'] = $fields;
 
-    return _CreateContact($contact_data);
+    return _ChangeContact($contact_data);
 }
 
 function _ChangeContact($data) // Функция создания контакта
